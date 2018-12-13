@@ -1,1 +1,1 @@
-# Dotnet core sdk build image with sonarqube analyzer ls
+# Dotnet core sdk build image with sonarqube analyzer

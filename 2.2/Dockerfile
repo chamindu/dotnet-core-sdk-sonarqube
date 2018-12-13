@@ -11,3 +11,6 @@ RUN apt-get update \
     
 RUN dotnet tool install --global dotnet-sonarscanner --version 4.5.0
 
+ENV PATH="${PATH}:/root/.dotnet/tools"
+
+
